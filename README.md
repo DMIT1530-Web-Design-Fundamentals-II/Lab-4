@@ -24,6 +24,4 @@ For this Lab, you will create a responsive signup form for a fictitious tech sta
 
 However, before you begin, you must prepare your content. Your first task will be to write valid, semantic HTML; next, you will need to convert your background images to an appropriate filetype and ensure that they are no greater than 250KB each.
 
-This Lab will be  a Code-A-Long where you will be expected to put in the final touches.
-
 ---
